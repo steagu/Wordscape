@@ -1,3 +1,10 @@
+# @author: Samuel Teague
+# @date: 05 Dec 2018 (most recent)
+# @file: wordscape.py
+# @description: This Python program solves for all possible permutations of a set of letters,
+#       compares them to a dictionary, and prints the matches between the two sets.
+#       This can be used to beat the app Wordscape with minimal effort.
+
 import sys
 import os
 

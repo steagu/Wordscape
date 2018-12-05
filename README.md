@@ -1,3 +1,7 @@
+# Wordscape Python script
+
+This app prints permutations of a set of letters which are in a dictionary file, words-alpha.txt
+
 I wrote this short python script after I got a game on my phone called Wordscape. It's a word game and I thoroughly enjoyed it
 for a couple of weeks until I realized that I could pretty easily write a program to generate the solutions for me. I had
 fun writing this script for that purpose, but after writing the script, I found the game quite boring. Because of that, I
